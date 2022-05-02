@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @musrex
-- 👀 I’m interested in learning front end web dev and building web apps. I also want to learn rust for fun and peek into the deeper depths of programming.
-- 🌱 I’m currently learning JavaScript and Rust. 
-- 💞️ I’m looking to collaborate on anything JavaScript related! I'd like to learn vanilla JS first and then move onto other frameworks or libraries.
+- 👀 I’m learning how to program in Python, and eventually want to learn other languages like JavaScript or Rust.
+- 🌱 I’m currently working through Courera courses and learning on the job as a Survey Programmer. 
+- 💞️ I’m looking to collaborate on anything Python related! I'd also like to learn JavaScript for work purposes (we use jQuery at work) and other programming languages like Rust, C, or Lisp for fun as well as educational purposes.
 - 📫 You can reach me via email at leandro.n.lopez@gmail.com
 
 <!---
