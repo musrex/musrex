@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @musrex
-- 👀 I’m learning how to program in Python, and eventually want to learn other languages like JavaScript or Rust.
-- 🌱 I’m currently working through Courera courses and learning on the job as a Survey Programmer. 
-- 💞️ I’m looking to collaborate on anything Python related! I'd also like to learn JavaScript for work purposes (we use jQuery at work) and other programming languages like Rust, C, or Lisp for fun as well as educational purposes.
+- 👋 Hi, I’m Leandro Lopez
+- 👀 I’m a programmer experienced with Python, XML, HTML, CSS, and a bit of JavaScript.
+- 🌱 Currently pursuing a Masters in Computer Science, with a focus on Software Engineering. 
+- 💞️ I’m looking to build community, get into Open Source projects, and learn new things! 
 - 📫 You can reach me via email at leandro.n.lopez@gmail.com
 
 <!---
