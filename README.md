@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Leandro Lopez
 - I have experience with Python, HTML, CSS, and JavaScript
-- I enjoy the Flask Micro Framework.
+- Currently learning Java,
+- but really, always trying to learn new things.
+- I enjoy the Flask Micro Framework, or nerding out and working on my NeoVim config.
 - Here you can find some of my projects, as well as materials from my graduate coursework.
 
 <!---
