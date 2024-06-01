@@ -12,8 +12,10 @@ But really, I'm always trying to learn new things 🤓
 I also enjoy the Flask Micro Framework, nerding out and working on my NeoVim config, or taking my dog Fly out for a walk. 🐕  
   
 Currently reading 📖  
-  - Contact 
+  - The Birth Partner
   - The Pragmatic Programmer
+  - ~Contact~
+  
   
 <!---
 musrex/musrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
