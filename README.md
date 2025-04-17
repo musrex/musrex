@@ -21,10 +21,10 @@ Reading in 2024 📖
   - ~Flask Web Development by Miguel Grinberg~
   - ~Beyond the Basic Stuff with Python by Al Sweigart~
 
-*My baby arrived before I was able to finish it! Still, was super valuable and I totally recommend it.
-**Have to go back and finish it. Really good but got caught up with language specific books.
-***More of a reference, so kinda hard to power through. Definitely recommend just reading the NGINX docs.
-****Great - book of essays. I Don't read it all the way through but come back occassionally.
+*My baby arrived before I was able to finish it! Still, was super valuable and I totally recommend it.  
+**Have to go back and finish it. Really good but got caught up with language specific books.  
+***More of a reference, so kinda hard to power through. Definitely recommend just reading the NGINX docs.  
+****Great - book of essays. I Don't read it all the way through but come back occassionally.  
   
 <!---
 musrex/musrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
